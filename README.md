@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm Cliff!
 
-<!--
-**clifforddonk/clifforddonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student  
+💻 Aspiring Full-Stack Developer  
+⚙️ React | Next.js | Spring Boot | MongoDB  
+🎯 Passionate about building real-world apps and helping others learn to code
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🔗 [Blog Platform](https://byteblogg.vercel.app) – Built with Next.js + Spring Boot
+- 🔗 [Ecommerce Platform](https://sleepsanctuary.vercel.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+- LinkedIn: [linkedin.com/in/clifforddonk](https://linkedin.com/in/clifforddonk)
+
