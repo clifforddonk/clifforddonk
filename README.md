@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+React+Expert⚛️;I+am+a+Java+Developer☕;I+am+experienced+with+MongoDB+and+MySQL📚)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
+  <img height="150" src="https://media.giphy.com/media/3o85xGRWMlHdGB1vMs/giphy.gif">
 </div>
 
 ## 🏆 Achievements
@@ -23,12 +23,14 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
-  
-  <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br>React
     </td>
-    
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/next-icon.svg" alt="Next.js" width="65" height="65" />
+      <br>Next.js
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -47,9 +49,9 @@
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       <br>MySQL
     </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="GraphQL" width="65" height="65" />
-      <br>MongoDb
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
+      <br>MongoDB
     </td>
   </tr>
   <tr>
