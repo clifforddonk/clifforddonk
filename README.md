@@ -1,19 +1,6 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-## About Me🙏🏾
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+CLIFFORD+DONK;I+am+a+Full-Stack+Developer%E2%9D%A4%EF%B8%8F;I+love+to+learn+and+explore🔰)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+React+Expert⚛️;I+am+a+Java+Developer☕;I+am+experienced+with+MongoDB+and+MySQL📚)](https://git.io/typing-svg)
-
-<div align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
-</div>
-
-## 🏆 Achievements
-- **Pull Shark:** Successfully merged pull requests
-- **Quickdraw:** Rapid development and deployment expert
 
 ## 💻 Tech Stack
 
@@ -93,10 +80,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clifforddonk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clifford-donkor-1a2b3c)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/clifforddonk)
-
-<div align="center">
-  <img src="https://camo.githubusercontent.com/87fbe3abb84d5f5d6790f6ff595f7a889b3f3c0035f5beeafaef0d11042addfd/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f30333732366366393734313732343931643561333438643061633235313235622f74656e6f722e676966"  />
-</div>
 
 ---
 
