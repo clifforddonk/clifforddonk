@@ -1,6 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+CLIFFORD+DONKOR;I+am+a+Full-Stack+Developer%E2%9D%A4%EF%B8%8F;I+love+to+learn+and+explore🔰)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+React+Expert⚛️;I+am+a+Java+Developer☕;I+am+experienced+with+MongoDB+and+MySQL📚)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+React+Expert⚛️;I+am+a+Java+Developer☕;I+am+experienced+with+MongoDB)](https://git.io/typing-svg)
 
 ## 💻 Tech Stack
 
