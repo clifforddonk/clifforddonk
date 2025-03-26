@@ -1,9 +1,13 @@
 # Clifford Donk 👋
 
-Full-Stack Developer | React, Next.js, Java, MongoDB, MySQL | Crafting seamless user experiences and scalable backend solutions
+Full-Stack Developer
+| React, Next.js, Java, MongoDB, MySQL | 
+Crafting seamless user experiences and scalable backend solutions
 
 ## 🚀 About Me
-Passionate about creating innovative web applications, I specialize in building full-stack solutions that blend cutting-edge frontend technologies with robust backend architectures.
+Passionate about creating innovative web applications, I specialize in 
+building full-stack solutions that blend cutting-edge frontend technologies 
+with robust backend architectures.
 
 ## 🏆 Achievements
 - **Pull Shark:** Successfully merged pull requests
@@ -21,27 +25,6 @@ Passionate about creating innovative web applications, I specialize in building 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📦 Key Projects
-
-### Blog Site
-- [blogsite_backend](https://github.com/clifforddonk/blogsite_backend) - Java Backend
-- [blogsite_frontend](https://github.com/clifforddonk/blogsite_frontend) - JavaScript Frontend
-
-### Job Portal
-- [job-backend](https://github.com/clifforddonk/job-backend) - Java Backend
-- [job-frontend](https://github.com/clifforddonk/job-frontend) - JavaScript Frontend
-
-### Exam System
-- [examsystem_frontend](https://github.com/clifforddonk/examsystem_frontend) - JavaScript Frontend
-- [examsystem_backend](https://github.com/clifforddonk/examsystem_backend) - Java Backend
-
-### Food System
-- [foodsystem_frontend](https://github.com/clifforddonk/foodsystem_frontend) - JavaScript Frontend
-- [foodsystem_backend](https://github.com/clifforddonk/foodsystem_backend) - Java Backend
-
-### E-Commerce
-- [ecommerce_frontend](https://github.com/clifforddonk/ecommerce_frontend) - JavaScript Frontend
-- [ecommerce_backend](https://github.com/clifforddonk/ecommerce_backend) - Java Backend
 
 ## 📊 GitHub Stats
 ![Clifford's GitHub stats](https://github-readme-stats.vercel.app/api?username=clifforddonk&show_icons=true&theme=radical)
