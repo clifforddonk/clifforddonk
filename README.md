@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Cliff!
 
 🎓 Computer Science & Engineering Student  
-💻 Aspiring Full-Stack Developer  
+💻 Full-Stack Developer  
 ⚙️ React | Next.js | Spring Boot | MongoDB  
 🎯 Passionate about building real-world apps and helping others learn to code
 
