@@ -1,4 +1,4 @@
-# Clifford Donk 👋
+# Hi there, Im Cliff 👋
 
 Full-Stack Developer
 | React, Next.js, Java, MongoDB, MySQL | 
