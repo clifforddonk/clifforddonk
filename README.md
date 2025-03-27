@@ -46,12 +46,6 @@
       <br>Postman
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-  </tr>
 </table>
 
 
